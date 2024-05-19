@@ -6,6 +6,12 @@ In my role as a Petty Officer First Class in the U.S. Navy, I communicated compl
 My experience as a Rescue Lieutenant at Funston Fire Rescue involved conducting risk assessments and managing emergency responses. These skills are directly applicable to cybersecurity, where assessing risks and responding to incidents swiftly and efficiently is key.
 With a blend of technical training and practical experience, I am eager to contribute to the cybersecurity field, leveraging my problem-solving abilities, effective communication, and keen attention to detail to enhance security measures."
 
+Strong Written and Verbal Communication Skills
+Strong Leadership Abilities
+I Stronly value the protection of Valuable Information
+I have already shown in my Background that I possess the abilities to protect any information
+My focus is to reach out to Cybersecurity Recruiters and Government Employers
+My goal is to ensure proper guidelines and procedures are followed along with constant learning of current risks and how to prevent/stop them
 
 <!---
 JohnMorrell251/JohnMorrell251 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
